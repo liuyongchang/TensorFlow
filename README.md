@@ -2,6 +2,7 @@
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
+* Change was made by Y.C. Liu on Jan. 06 2021 second times
 * Change was made by Y.C. Liu on Jan. 06 2021
 * Eager Execution / tf.function
 * Integration of the Keras API
